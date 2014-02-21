@@ -57,4 +57,5 @@ github "xquartz",    "1.1.0"
 # https://github.com/boxen.
 
 github "vagrant",     "3.0.5"
-github "mysql",       "1.99.15"
+github "mysql",       "1.1.5"
+github "the_silver_searcher",       "0.0.3"
