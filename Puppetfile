@@ -58,4 +58,3 @@ github "xquartz",    "1.1.0"
 
 github "vagrant",     "3.0.5"
 github "mysql",       "1.1.5"
-github "the_silver_searcher",       "0.0.3"
